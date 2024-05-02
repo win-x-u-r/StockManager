@@ -1,3 +1,1 @@
-Hello 
-This is Our java Final Project
-a Stock Management System Program 
+This is our java Final Project "Stock Management System"
